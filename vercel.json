@@ -1,0 +1,7 @@
+{
+  "outputDirectory": "dist",
+  "github": {
+    "silent": true
+  },
+  "trailingSlash": true
+}
